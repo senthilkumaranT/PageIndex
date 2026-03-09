@@ -152,7 +152,7 @@ pip3 install --upgrade -r requirements.txt
 Create a `.env` file in the root directory and add your API key:
 
 ```bash
-CHATGPT_API_KEY=your_openai_key_here
+OPENAI_API_KEY=your_openai_key_here
 ```
 
 ### 3. Run PageIndex on your PDF
